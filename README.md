@@ -4,7 +4,7 @@
 > Built to test, break, and rebuild — because if you can untangle *this*, you can handle anything.
 
 <div align="center"> 
-<img width=90% src="/src/assets/rebase_your_face.webp">
+<img width=90% src="/src/assets/ryf.webp">
 </div>
 
 <div align="center">
