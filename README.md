@@ -8,25 +8,25 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/your-username/rebase-your-face">
+  <a href="https://github.com/curtainteddy/rebaseyourface">
     <img src="https://img.shields.io/badge/status-chaotic-red?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username/rebase-your-face/actions">
+  <a href="https://github.com/curtainteddy/rebaseyourface/actions">
     <img src="https://img.shields.io/badge/build-broken-critical?style=for-the-badge&logo=githubactions&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username/rebase-your-face">
+  <a href="https://github.com/curtainteddy/rebaseyourface">
     <img src="https://img.shields.io/badge/license-None-lightgrey?style=for-the-badge" />
   </a>
-  <a href="https://github.com/your-username/rebase-your-face/commits">
+  <a href="https://github.com/curtainteddy/rebaseyourface/commits">
     <img src="https://img.shields.io/badge/commit--history-rewritten-blueviolet?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username/rebase-your-face">
+  <a href="https://github.com/curtainteddy/rebaseyourface">
     <img src="https://img.shields.io/badge/rebase--frequency-hourly-orange?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username/rebase-your-face">
+  <a href="https://github.com/curtainteddy/rebaseyourface">
     <img src="https://img.shields.io/badge/merge--conflicts-expected-yellow?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username/rebase-your-face">
+  <a href="https://github.com/curtainteddy/rebaseyourface">
     <img src="https://img.shields.io/badge/git-chaos-black?style=for-the-badge&logo=git&logoColor=white" />
   </a>
 </div>
