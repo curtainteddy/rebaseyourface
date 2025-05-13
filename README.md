@@ -59,7 +59,7 @@ You’ll learn not just to use Git — but to **bend it**.
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/curtainteddt/rebaseyourface.git
+git clone https://github.com/curtainteddy/rebaseyourface.git
 cd rebaseyourface
 ```
 
@@ -72,21 +72,70 @@ Then:
 
 No tutorials. No structure. Figure it out.
 
-## 💡 You’ll Actually Learn
 
-- `git rebase --interactive`
-- `git reflog` (your last line of defense)
-- `git cherry-pick` (surgical precision)
-- `git reset --hard` (burn it down)
-- `git merge` with actual strategy
 
-## 🧨 Examples of Commit Messages
+## 🌳 Branch Naming
 
-- `rewrite history`
-- `not proud of this one`
-- `survived the rebase`
-- `headless but hopeful`
+Use this format:
+```
+type/short-description
+```
 
+| Type        | Description               |
+|-------------|---------------------------|
+| `feat/`     | New features              |
+| `bugfix/`   | Fixes                     |
+| `hotfix/`   | Urgent fixes              |
+| `refactor/` | Code cleanup              |
+| `docs/`     | Documentation changes     |
+| `test/`     | Test changes              |
+| `chore/`    | Misc tasks (e.g., updates)|
+
+**Examples:**
+- `feature/user-login`  
+- `bugfix/navbar-glitch`  
+- `refactor/form-logic`
+
+
+## 🎠 Commit Messages
+
+Use this format:
+```
+type: short message
+```
+| Type        | Description               |
+|-------------|---------------------------|
+| `feat:`     | New features              |
+| `bugfix:`   | Fixes                     |
+| `hotfix:`   | Urgent fixes              |
+| `refactor:` | Code cleanup              |
+| `docs:`     | Documentation changes     |
+| `test:`     | Test changes              |
+| `chore:`    | Misc tasks (e.g., updates)|
+
+**Examples:**
+- `feat: add dark mode toggle`  
+- `fix: resolve crash on submit`  
+- `docs: update README`
+
+## 😎 Pull Requests
+
+**Title:**
+```
+type/short-description
+```
+
+**Description Template:**
+```md
+## What
+What the change is
+
+## Why
+Why it was needed
+
+## Notes
+How to test, or anything extra
+```
 ## 🪦 Disclaimer
 
 This repo is not safe, sane, or standardized.  
@@ -94,6 +143,3 @@ It exists for one reason: to make you **unreasonably good** at Git by walking th
 
 If you mess up, good.  
 Now fix it.
-
-**Welcome to Git the hard way.**
-
