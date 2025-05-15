@@ -6,6 +6,7 @@
 <div align="center"> 
 <img width=90% src="/src/assets/ryf.webp">
 </div>
+<h1 align="center">🦊 Rebase Your Face </h1>
 
 <div align="center">
   <a href="https://github.com/curtainteddy/rebaseyourface">
